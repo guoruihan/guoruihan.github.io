@@ -21,13 +21,12 @@ twitter: RuihanGuo2  # Do not include the '@' symbol
 
 short_bio_text_justify: false
 short_bio: >-
+
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hello! I'm Ruihan Guo (郭睿涵), a research scientist at <a href="https://www.helixon.com/" target="_blank">Helixon</a>, specializing in antibody modeling and design.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    Prior to joining Helixon, I completed my undergraduate studies at the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, Shanghai Jiao Tong University (<a href="https://en.sjtu.edu.cn/">SJTU</a>) in June 2022, advised by <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg

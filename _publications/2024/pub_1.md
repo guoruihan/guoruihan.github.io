@@ -1,6 +1,6 @@
 ---
 title:          "Decipher Fundamental Atomic Interactions to Unify Generative Molecular Docking and Design"
-# date:           2024-05-12 00:01:00 +0800
+date:           2024-09-12 00:01:00 +0800
 selected:       true
 pub:            "Cell"
 pub_pre:        "Submitted to "

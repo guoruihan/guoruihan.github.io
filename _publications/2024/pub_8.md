@@ -6,7 +6,7 @@ pub:            "ICRA 2025"
 pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+pub_date:       ""
 
 abstract: >-
 

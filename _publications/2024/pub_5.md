@@ -2,7 +2,7 @@
 title:          "Full-Atom Peptide Design based on Multi-modal Flow Matching"
 date:           2024-02-12 00:01:00 +0800
 selected:       true
-pub:            "ICML 2024"
+pub:            "ICML"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

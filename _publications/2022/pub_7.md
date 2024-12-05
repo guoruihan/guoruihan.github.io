@@ -2,7 +2,7 @@
 title:          "Learning Long-Term Reward Redistribution via Randomized Return Decomposition"
 date:           2022-06-12 00:01:00 +0800
 selected:       true
-pub:            "ICLR 2022"
+pub:            "ICLR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

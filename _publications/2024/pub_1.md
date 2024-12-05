@@ -9,21 +9,9 @@ pub_post:       'Under review.'
 pub_date:       "2024"
 
 abstract: >-
-    Atomic interactions are fundamental to molecular structures and functions.
-    We constructed PocketXMol, an all-atom AI model, to learn these interactions
-    for general pocket-interacting molecular generative tasks. PocketXMol unified
-    distinct molecular tasks under a single computational framework without requiring fine-tuning. It was evaluated on 11 typical tasks, covering docking and
-    design of small molecules and peptides, and compared against 49 baselines using
-    45 metrics. PocketXMol outperformed state-of-the-art methods in 9 tasks and
-    was competitive in the remaining ones. We successfully adopted PocketXMol to
-    design novel small molecules to inhibit caspase-9 with efficacy comparable to
-    commercial pan-caspase inhibitors. We also adopted PocketXMol to design PDL1-binding peptides and demonstrated its success rate 50,000 times higher than
-    random library screening. Three peptides underwent rigorous cellular validation,
-    exhibiting effective binding to the cell membrane. Their potential for molecular
-    probing and therapy was further confirmed through injections in tumor mouse
-    models and the ligand inhibition assay.
+    PocketXMol is an all-atom  model that unifies diverse molecular tasks under a single framework without fine-tuning, excelling in small molecule and peptide design, with demonstrated success in creating caspase-9 inhibitors and PD-L1-binding peptides validated in cellular and animal models.
 
-cover:          /assets/images/covers/cover1.png
+cover:          /assets/images/covers/covers1.png
 authors:
     - Xingang Peng
     - Ruihan Guo

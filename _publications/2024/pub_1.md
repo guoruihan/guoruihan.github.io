@@ -23,7 +23,7 @@ exhibiting effective binding to the cell membrane. Their potential for molecular
 probing and therapy was further confirmed through injections in tumor mouse
 models and the ligand inhibition assay.
 
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/cover1.png
 authors:
   - Xingang Peng
   - Ruihan Guo

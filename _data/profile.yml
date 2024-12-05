@@ -11,8 +11,8 @@ positions:
 email: "guoruihan.sansi@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: ipPtXr4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: guoruihan
-twitter: RuihanGuo2  # Do not include the '@' symbol
+# github: guoruihan
+# twitter: RuihanGuo2  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -29,7 +29,7 @@ short_bio: >-
     Prior to joining Helixon, I completed my undergraduate studies at the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>, Shanghai Jiao Tong University (<a href="https://en.sjtu.edu.cn/">SJTU</a>) in June 2022, advised by <a href="https://apex.sjtu.edu.cn/members/yyu">Prof. Yong Yu</a>.
   </p>
 
-portrait_url: /assets/images/photo/sun.png
+portrait_url: /assets/images/photos/sun.png
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 

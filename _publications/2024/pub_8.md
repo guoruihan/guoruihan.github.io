@@ -9,9 +9,10 @@ pub_pre:        "Submitted to "
 pub_date:       "2024"
 
 abstract: >-
-  This work addresses episodic reinforcement learning with trajectory feedback by introducing Randomized Return Decomposition (RRD), a reward redistribution algorithm that uses Monte-Carlo sampling to scale least-squares-based proxy reward learning for long-horizon tasks, achieving significant improvements over baseline methods.
 
-cover:          /assets/images/covers/covers8.png
+  ME-PATS introduces a simulator for tractor-trailer systems and integrates search-based A* planning with reinforcement learning to address real-world maneuvering challenges.
+
+# cover:          /assets/images/covers/covers7.png
 authors:
   - Ke Fan
   - Zhizhou Ren

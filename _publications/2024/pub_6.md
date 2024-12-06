@@ -1,7 +1,7 @@
 ---
 title:          "Hotspot-Driven Peptide Design via Multi-Fragment Autoregressive Extension"
 date:           2024-12-12 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ICLR 2025"
 pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

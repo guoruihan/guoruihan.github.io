@@ -23,7 +23,7 @@ short_bio_text_justify: false
 short_bio: >-
 
   <p>
-    Hi! I am Ruihan Guo, a first-year CS Ph.D. student at the <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign</a>, advised by <a href="https://siebelschool.illinois.edu/about/people/faculty/geliu" target="_blank">Prof. Ge Liu</a>.
+    Hi! I am Ruihan Guo, a second-year CS Ph.D. student at the <a href="https://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign</a>, advised by <a href="https://siebelschool.illinois.edu/about/people/faculty/geliu" target="_blank">Prof. Ge Liu</a>.
   </p>
   <p>
     My research interests lie in generative modeling and controllable generation, with a focus on their applications to molecular design. I am also broadly interested in AI-driven drug discovery and biomolecular design, including antibody design and protein engineering.
